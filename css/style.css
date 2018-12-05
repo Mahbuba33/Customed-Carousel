@@ -41,4 +41,5 @@ body{
 .btn-outline-danger:hover{
 	background-color:#DA577A;
 	border-color:#DA577A;
+	transition: 0.5s;
 }
